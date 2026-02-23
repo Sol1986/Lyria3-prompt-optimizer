@@ -4,8 +4,8 @@ This agent helps users create rich, production ready prompts for generating musi
 ## Overview
 This agent helps users create rich, production ready prompts for generating music with Lyria 3. Instead of needing to understand how to describe genre, mood, instrumentation, structure, or sonic texture in technical language, the user simply explains the kind of song they want. Optionally, they can upload an image to guide the emotional tone, aesthetic, or atmosphere of the track.
 
-Link To Try It: https://app.mindstudio.ai/agents/lyria-3-prompt-generator-db257f60
-Link To Youtube Video: https://youtu.be/NY5E6Lwu-v8
+- Link To Try It: https://app.mindstudio.ai/agents/lyria-3-prompt-generator-db257f60
+- Link To Youtube Video: https://youtu.be/NY5E6Lwu-v8
 
 The agent then interprets both the written request and the visual context to craft a clear, detailed, and musically coherent prompt that can be used directly inside Lyria 3.
 
